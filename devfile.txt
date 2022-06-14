@@ -1,2 +1,6 @@
 Hello master
+<<<<<<< HEAD
 Hello from git
+=======
+gigi
+>>>>>>> 3700013 (My changes)
